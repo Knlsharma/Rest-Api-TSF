@@ -1,0 +1,66 @@
+Hi , everyone myself Kunal Sharma. Today I am going to show the rest api 
+and code base which i have created for implementation..
+
+1. IDE used is Netbeans
+2. Web Application: Spring Boot
+3. Mysql and rest api implementaion: CURD 
+4. Testing : browser , Post-man
+
+
+Rest of the api are available at codebase please check below link for that..
+
+
+
+
+
+
+
+
+
+
+
+
+Lets see, in video
+
+
+
+
+
+
+
+
+
+
+
+
+Here are some ,
+
+1. Future aspects I am also Integrating CI/CD (Devops) to this application 
+2. adding/correcting the api for furthur enhancements.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Code @ https://github.com/Knlsharma/Rest-Api-TSF
+
+
+
+
+
+
+
+
+
+Thank You ..
